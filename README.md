@@ -1,1 +1,1 @@
-#A simple repo for ongoing Algorithm work.
+# A simple repo for ongoing Algorithm work.
